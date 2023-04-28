@@ -1,5 +1,7 @@
 
-<h1>Simon Game</h1>
+<h1>Simon Game</h1>  ![image](https://user-images.githubusercontent.com/111885128/235207763-292edfe9-0de5-4e4c-b2e9-9a7ad6769ea3.png)
+
+
 
 This is a web-based implementation of the classic Simon Game, built using JavaScript and jQuery.
 
