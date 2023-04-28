@@ -1,5 +1,5 @@
 
-#Simon Game
+<h1>Simon Game</h1>
 
 This is a web-based implementation of the classic Simon Game, built using JavaScript and jQuery.
 
