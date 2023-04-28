@@ -40,6 +40,6 @@ Once you successfully repeat the sequence, Simon will add another color and soun
 
 ## Authors
 
-* Your Name - [your-username](https://github.com/your-AzeemIbrahim)
+* Your Name - [AzeemIbrahim](https://github.com/your-AzeemIbrahim)
 
 
