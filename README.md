@@ -7,7 +7,7 @@ This is a web-based implementation of the classic Simon Game, built using JavaSc
 
 ## Getting Started
 
-To play the game, simply visit the live demo at 
+To play the game, simply visit the live demo at  https://azeemibrahim.github.io/Simon-Game/ .
 
 Alternatively, you can clone this repository and run the game locally on your machine.
 
