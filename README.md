@@ -1,5 +1,5 @@
 
-##Simon Game
+<h1>Simon Game</h1>
 
 
 
@@ -7,7 +7,7 @@ This is a web-based implementation of the classic Simon Game, built using JavaSc
 
 ## Getting Started
 
-To play the game, simply visit the live demo at [insert link to live demo here].
+To play the game, simply visit the live demo at 
 
 Alternatively, you can clone this repository and run the game locally on your machine.
 
